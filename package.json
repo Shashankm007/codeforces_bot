@@ -1,0 +1,18 @@
+{
+  "name": "codeforces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "codeforces-api": "^1.0.3",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.2.0",
+    "node": "^14.3.0"
+  }
+}
